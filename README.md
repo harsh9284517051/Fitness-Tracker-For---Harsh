@@ -1,4 +1,4 @@
-# Fitnees Tracker Management System
+# Fitness Tracker Management System
 
 ## Overview
 The **Exercise Management System** is a Python-based program that allows users to log, view, save, and load their workouts. This simple command-line tool helps users keep track of their fitness activities.
